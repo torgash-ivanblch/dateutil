@@ -13,7 +13,7 @@ EASTER_ORTHODOX = 2
 EASTER_WESTERN = 3
 
 
-def easter(year, method=EASTER_WESTERN):
+def easter(year, method=EASTER_ORTHODOX):
     """
     This method was ported from the work done by GM Arts,
     on top of the algorithm by Claus Tondering, which was
